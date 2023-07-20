@@ -1,4 +1,4 @@
-import { client } from "./gradio/src/client.ts";
+import { client } from "./gradio/src/client";
 
 const input = document.getElementById("input")
 
