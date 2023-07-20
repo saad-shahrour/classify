@@ -5,6 +5,7 @@ const input = document.getElementById("input")
 let result
 let img = document.getElementById("img")
 
+print(true)
 
 input.addEventListener("change", async (e) => {
   const file = e.target.files[0];
